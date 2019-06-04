@@ -1,3 +1,6 @@
 # fullScroll
 
-### `parcel index.html`
+
+#### if you need install `npm install -g parcel-bundler`
+
+#### run `parcel index.html`
