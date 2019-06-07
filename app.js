@@ -50,6 +50,8 @@ const page = new fullScroll('.fullscroll', {
     colors: ['#515bd4', '#8134af', '#dd2a7b', '#feda77', '#665b3f']
 });
 
+console.dir(Object.getPrototypeOf(page));
+
 
 // Helpers
 
